@@ -1,0 +1,47 @@
+Overview
+Title: Artificial Intelligence and Machine Learning (CS3001)
+Number: 00030001
+Persons Involved
+Head: Dr. Smith, Alice
+Lecturer (Assistant): Lee, John and Patel, Sara
+Type: Lecture with integrated exercises (LE)
+Semester weekly hours: 5
+Course Language(s): English
+Offered in: Fall Semester 2024
+Organization: Department of Computer Science and Engineering - AI Research Lab (Prof. Dr. Alice Smith)
+
+Description
+Content:
+This course provides a comprehensive introduction to the fields of artificial intelligence (AI) and machine learning (ML). Students will explore fundamental concepts, algorithms, and techniques and gain practical experience implementing AI systems. The course will cover topics such as:
+- Introduction to AI and ML: History, applications, and impact
+- Supervised and unsupervised learning
+- Linear regression, logistic regression, and classification algorithms
+- Decision trees, random forests, and ensemble methods
+- Neural networks and deep learning
+- Reinforcement learning basics
+- Natural language processing (NLP) techniques
+- Computer vision and image recognition
+- Ethical considerations in AI
+
+Previous Knowledge Expected:
+CS1001: Introduction to Computer Science
+CS2002: Data Structures and Algorithms
+MATH2003: Linear Algebra
+
+Objective:
+After completing this course, students will understand the core principles of artificial intelligence and machine learning, including the ability to design and implement basic AI and ML models. They will also be familiar with the ethical and societal implications of AI technologies.
+
+Teaching and Learning Method
+Classes will involve lectures and in-class exercises. Weekly homework assignments will reinforce the concepts learned in class. There will be a midterm exam and a final project focused on developing a machine learning model for a specific problem.
+
+Course Criteria and Registration
+All students are required to attend the first class for course registration.
+
+Recommended Reading:
+Russell, S., & Norvig, P. (2016). Artificial Intelligence: A Modern Approach (3rd ed.). Pearson.
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.
+
+Additional Resources:
+AI and ML resources on www.kaggle.com
+Access to course slides and assignments on the university Moodle platform
