@@ -1,6 +1,6 @@
 # Course-focused Chatbot
 
-A chatbot application built with **Streamlit** and **OpenAI's API** to help students with questions related to any course whose relevant information attached into the project. The chatbot provides responses specifically tailored to the course content, leveraging a text-based file containing class details and an intelligent relevance-checking mechanism.
+A chatbot application built with **Streamlit** and **OpenAI's API** to help students with questions related to any course whose relevant information attached into the project. The chatbot provides responses specifically tailored to the course content, leveraging an intelligent relevance-checking mechanism.
 
 ## Table of Contents
 
